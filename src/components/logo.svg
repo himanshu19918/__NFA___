@@ -1,0 +1,6 @@
+<svg width="80.04500274658203px" height="116.96000366210937px" xmlns="http://www.w3.org/2000/svg" viewBox="209.97749862670898 16.519998168945314 80.04500274658203 116.96000366210937" style="background: rgba(0, 0, 0, 0);" preserveAspectRatio="xMidYMid"><defs><filter id="editing-vr"><feFlood flood-color="#f00" flood-opacity="0.7" result="c1"></feFlood><feFlood flood-color="#00f" flood-opacity="0.7" result="c3"></feFlood><feComposite operator="in" in="c1" in2="SourceAlpha" result="text-c1"></feComposite><feComposite operator="in" in="c3" in2="SourceAlpha" result="text-c3"></feComposite><feOffset in="text-c1" dx="5" dy="-1" result="text1"></feOffset><feOffset in="text-c3" dx="-5" dy="1" result="text3"></feOffset><feBlend in="SourceGraphic" in2="text1" mode="multiply" result="text4"></feBlend><feBlend in="text4" in2="text3" mode="multiply"></feBlend></filter></defs><g filter="url(#editing-vr)"><g transform="translate(227.92500686645508, 93.2300033569336)"><path d="M40.23 0L30.00 0L14.68-17.70L14.68 0L3.92 0L3.92-36.46L14.15-36.46L29.47-18.50L29.47-36.46L40.23-36.46L40.23 0Z" fill="#444"></path></g></g><style>text {
+  font-size: 64px;
+  font-family: Arial Black;
+  dominant-baseline: central;
+  text-anchor: middle;
+}</style></svg>
